@@ -1,0 +1,7 @@
+key.json
+.env
+*.mp3
+*.db
+env/
+.DS_Store
+database-AudioTracker-1-audio
